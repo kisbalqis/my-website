@@ -20,7 +20,7 @@ export const profileData = {
       { name: "React.js", value: 90 },
       { name: "Design System", value: 75 },
       { name: "Bootstraps", value: 95 },
-      { name: "Wirafrane", value: 90 },
+      { name: "Wiraframe", value: 90 },
     ],
   };
   
